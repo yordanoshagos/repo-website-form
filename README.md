@@ -1,1 +1,1 @@
-# repo-website-form
+This repository is packed with nicely coded HTML forms and tables meant for user input and data presentation. The forms contain varieties of different input types, and the tables effectively organize and display data in an understandable, beautiful manner. Each element has been styled using CSS for improved appearance and usability. This project aims to provide a good foundation for building responsive and user-friendly web applications.
